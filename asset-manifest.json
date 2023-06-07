@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NFTProjectA/static/css/main.1e2f6dba.chunk.css",
+    "main.js": "/NFTProjectA/static/js/main.38dfb723.chunk.js",
+    "main.js.map": "/NFTProjectA/static/js/main.38dfb723.chunk.js.map",
+    "runtime-main.js": "/NFTProjectA/static/js/runtime-main.f428432f.js",
+    "runtime-main.js.map": "/NFTProjectA/static/js/runtime-main.f428432f.js.map",
+    "static/js/2.954960f9.chunk.js": "/NFTProjectA/static/js/2.954960f9.chunk.js",
+    "static/js/2.954960f9.chunk.js.map": "/NFTProjectA/static/js/2.954960f9.chunk.js.map",
+    "static/js/3.c7bd9f95.chunk.js": "/NFTProjectA/static/js/3.c7bd9f95.chunk.js",
+    "static/js/3.c7bd9f95.chunk.js.map": "/NFTProjectA/static/js/3.c7bd9f95.chunk.js.map",
+    "index.html": "/NFTProjectA/index.html",
+    "static/css/main.1e2f6dba.chunk.css.map": "/NFTProjectA/static/css/main.1e2f6dba.chunk.css.map",
+    "static/js/2.954960f9.chunk.js.LICENSE.txt": "/NFTProjectA/static/js/2.954960f9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/NFTProjectA/static/media/twitter.f5270299.png",
+    "static/media/mobile.css": "/NFTProjectA/static/media/twitterGold.2b983ac8.png",
+    "static/media/reset.css": "/NFTProjectA/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f428432f.js",
+    "static/js/2.954960f9.chunk.js",
+    "static/css/main.1e2f6dba.chunk.css",
+    "static/js/main.38dfb723.chunk.js"
+  ]
+}
